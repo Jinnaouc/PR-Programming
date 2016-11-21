@@ -1,2 +1,1 @@
-# PR-Programming
-pattern recognition program 
+模式识别课程相关程序编码
